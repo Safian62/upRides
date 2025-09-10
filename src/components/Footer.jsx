@@ -9,7 +9,7 @@ function Footer() {
         <div className="max-w-7xl mx-auto px-6 sm:flex sm:flex-col items-center text-center">
           <h2 className="text-2xl font-bold">Ride Smart, Go Anywhere — Download the App Today!</h2>
           <p className="text-xl text-gray-400 mt-4 max-w-xl sm:px-0">
-            Book Rides instantly, track in real-time, and travel safe and hassle-free. Download now and ride smart!
+            Book Rides instantly, Track in real-time, and travel safe and hassle-free. Download now and ride smart!
           </p>
         </div>
 
